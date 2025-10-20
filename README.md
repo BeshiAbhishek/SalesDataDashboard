@@ -105,11 +105,10 @@ Git & GitHub for version control
 
 Data Analysis & Visualization Concepts
 
-## 🏁 Author
+## 👨‍💻 Author
+Name: Beshi Abhishek
+Email: beshiabhishek@gmail.com
+Mobile: +91 7981031423
+LinkedIn: www.linkedin.com/in/abhishekbeshi
+"Data has stories — you just need the right lens to see them."
 
-👤 Abhishek Beshi
-📍 Hyderabad, India
-💬 "Data has stories — you just need the right lens to see them."
-Removed negative or incorrect date values
-
-Converted dataset to an Excel Table (Sales_Data)
