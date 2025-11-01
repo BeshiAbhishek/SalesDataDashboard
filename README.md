@@ -106,7 +106,7 @@ Git & GitHub for version control
 Data Analysis & Visualization Concepts
 
 ## 👨‍💻 Author
-Name: Beshi Abhishek
+Name: Beshi Abhishek              
 Email: beshiabhishek@gmail.com
 Mobile: +91 7981031423
 LinkedIn: www.linkedin.com/in/abhishekbeshi
